@@ -6,7 +6,7 @@ Simon Says
 -using canvas to create 2d graphics, memory game, click on the colors simon says to click on. high score with local storage and compete against other users for high score. 
 -fun game to challenge memory
 
-CosmoDog- A web based game where the dog is launched into space and needs to avoid asteroids and see who can get the furthest.
+CosmoDog- A web based game where the dog is launched into space and needs to avoid asteroids. This game is a fun mix of Javascript and CSS using position to mark where the player is, It will use local storage to keep high scores for the players. This game is about sending this dog as far into space as possible while it gets harder and harder the further you go.
 
 
 
